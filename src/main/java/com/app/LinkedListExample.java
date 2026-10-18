@@ -1,6 +1,6 @@
 package com.app;
 
-public class LinkedListExampel {
+public class LinkedListExample {
     public static void main(String[] args) {
         LinkedList ll = new LinkedList();
         ll.insert(5);
