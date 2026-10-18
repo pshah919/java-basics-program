@@ -42,5 +42,6 @@ Map<Character,Character> nextSlot= Map.of('0','1','1','2','2','3','3','4',
                 }
             }
         }
+        return turn;
     }
 }
